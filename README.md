@@ -13,21 +13,22 @@ Workout tracker
   * [License](#license)
 
 ## Description
-
+A simple app to view, create and track daily workouts.
 
 Here is the Github repository: https://github.com/decoste/Workout-Tracker
 
 
-The Heruko deployed site: 
+The Heruko deployed site: https://ala-fitness-tracker.herokuapp.com/
 
 
 The following GIF demonstrates the application functionality:
 
-![Workout - Demo]()
+![Workout - Demo](./public/images/fitness.gif)
 
 ## Installation
+No installation needed.  Only click on the following Herohu link:
 
-
+https://ala-fitness-tracker.herokuapp.com/
 
 ## Table of Contents
   * [Installation](#installation)
@@ -49,5 +50,13 @@ aladecoste@gmail.com
 
 ## License
 MIT license
+
+
+Screenshots of the website:
+
+![one](./public//images/screenshot1.png)
+
+
+![two](./public//images/screenshot2.png)
 
 
