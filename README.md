@@ -25,18 +25,17 @@ The following GIF demonstrates the application functionality:
 
 ![Workout - Demo](./public/images/fitness.gif)
 
-## Installation
-No installation needed.  Only click on the following Herohu link:
-
-https://ala-fitness-tracker.herokuapp.com/
 
 ## Table of Contents
   * [Installation](#installation)
   * [Questions](#questions)
   * [License](#license)
 
-## License
-MIT license
+
+## Installation
+No installation needed.  Only click on the following Herohu link:
+
+https://ala-fitness-tracker.herokuapp.com/
 
 ## Questions
 The following is my Github accounts:
