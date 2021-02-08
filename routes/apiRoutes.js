@@ -5,7 +5,6 @@ module.exports = function(app) {
 
     //GET last workout
     app.get("/api/workouts/", (req, res)=>{
-        const id = req.params.id;
         db.Workout.aggregate([
             {
                 $addFields: {
@@ -36,7 +35,7 @@ module.exports = function(app) {
 
     //Add exercise
     app.put("/api/workouts/:id", (req, res) => {
-        db.Workout.findOneAndUpdate(
+        db.Workout.Update(
             { _id: req.params.id },
             {
               $push: {
