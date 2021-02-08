@@ -35,7 +35,7 @@ module.exports = function(app) {
 
     //Add exercise
     app.put("/api/workouts/:id", (req, res) => {
-        db.Workout.Update(
+        db.Workout.findOneAndUpdate(
             { _id: req.params.id },
             {
               $push: {
